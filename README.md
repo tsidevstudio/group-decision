@@ -1,81 +1,46 @@
 # Group Decision
 
-Group Decision is an Android random picker designed to help groups make quick and fair choices between people or options.
+**Group Decision-Making Tool**
 
-It is useful when several choices are equally good and the group simply wants an instant result without endless discussion.
+Group Decision is a TSI Dev Studio Android app focused on helping people structure and simplify group decision-making.
 
-## Features
+## What it does
 
-- Add people or options
-- Random selection
-- Instant results
-- Saved groups
-- Custom scenarios
-- Simple group decision flow
-- Local app experience
-- No unnecessary account requirement
+- Support structured group decision workflows
+- Keep choices organized
+- Provide a focused Android experience for collaborative decisions
 
-## Useful for
+## Product principles
 
-Group Decision can help decide:
+- Simple group workflows
+- Clear decision structure
+- Focused Android utility
+- Minimal unnecessary complexity
 
-- Who pays the bill
-- What to eat
-- What movie to watch
-- Who drives
-- Night-out plans
-- Which option to choose
-- Other everyday group decisions
+## Public documentation
 
-## Free and Premium
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Workflow](docs/decision-workflow.md) | Public user-facing documentation |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-The free version includes:
+## Official links
 
-- 3 group decisions per day
-- 1 saved group
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-Premium is a one-time purchase and includes:
+## About this repository
 
-- Unlimited decisions
-- Unlimited saved groups
-- Custom scenarios
-- No usage limits
-- No subscription
+This repository is for public product information, documentation, verification links and release-related resources.
 
-## Privacy approach
+Unless explicitly stated otherwise, the application source code is not published here.
 
-Group Decision keeps entered lists within the local app experience.
+Internal architecture and implementation details are intentionally excluded from public documentation.
 
-The app focuses on:
+## Developer
 
-- Local interaction
-- No unnecessary account requirement
-- No unnecessary data collection
-- No unnecessary cloud dependence
-- User-controlled selections
-
-## TSI Dev Studio
-
-Group Decision is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
-
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Group Decision page:
-
-https://tsidevstudio.com/apps/group-decision
-
-Google Play:
-
-https://play.google.com/store/apps/details?id=com.premium.alegetu
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Annum, Zizly, Zekro and Mission563.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
